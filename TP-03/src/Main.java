@@ -87,7 +87,7 @@ public class Main {
             System.out.println("Number of digits in the integral part: " + integral_part);
             System.out.println("Number of digits in the fractional part: " + frac_lPartS);
 
-            System.out.println("++++++++++++++++++++TP-3.6+++++++++++++++++");
+            System.out.println("++++++++++++++++++++TP-3.7+++++++++++++++++");
 
             System.out.print("Enter the text: ");
             String string = Input.nextLine();
